@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fuf:home|Door43 (fuf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fuf|d43-fuf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fuf/archive/master.zip|d43-fuf.zip]]
+
+**Recent Changes**
+{{changes>ns = fuf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fuf|Ethnologue data]]
+
